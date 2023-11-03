@@ -30,7 +30,7 @@ The best way to contact me is through email, but I can also be reached at the fo
 
 
 
-Email: gebremedhin.nahum@gmail.com
+Email: gebremedhin.nahum@gmail.com \n
 LinkedIn: www.linkedin.com/in/nahum-gebremedhin
 Phone: +1 763-445-1759
 
