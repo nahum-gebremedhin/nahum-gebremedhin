@@ -16,7 +16,9 @@ Currently, I am searching for a place to start my career after university and I 
 
 Below are a list of projects included in the repository along with some information about them.
 
-### Maze Project - 
+### Maze Project - This project uses Stacks and Queues to create and solve a basic maze given a set of guidelines. A stack is used to randomly generate a new maze given an input size. A queue will be used in the maze algorithm that finds a correct path through the maze. The stack and queue data structures were given to students along with some other files that can be found in the write up pdf. 
+
+This project was completed in the Spring 2020 semester for my Intro to Data Structures and Algorithms course
 
 ## Contact/Links
 
