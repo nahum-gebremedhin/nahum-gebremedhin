@@ -26,7 +26,7 @@ When you run the main method on line 204 of MyMaze.java you should get an output
 
 ## Contact/Links
 
-The best way to contact me is through email, but I can also be reached at the following places and I will do my best to respond in a timely manner. 
+The best way to contact me is through email, but I can also be reached at the following places. 
 
 
 
