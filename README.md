@@ -11,11 +11,20 @@ These experiences have helped set me apart by allowing me opportunities to devel
 
 Currently, I am searching for a place to start my career after university and I am eager to apply my knowledge and skills to real world problems and projects.
 
-- 👋 Hi, I’m @nahum-gebremedhin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+# Projects
+
+
+# Contact/Links
+
+The best way to contact me is through email, but I can also be reached at the following places and I will do my best to respond in a timely manner. 
+
+Email: gebremedhin.nahum@gmail.com
+LinkedIn: www.linkedin.com/in/nahum-gebremedhin
+Phone: +1 763-445-1759
+
+
+
 
 <!---
 nahum-gebremedhin/nahum-gebremedhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
