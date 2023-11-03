@@ -12,10 +12,13 @@ These experiences have helped set me apart by allowing me opportunities to devel
 Currently, I am searching for a place to start my career after university and I am eager to apply my knowledge and skills to real world problems and projects.
 
 
-# Projects
+## Projects
 
+Below are a list of projects included in the repository along with some information about them.
 
-# Contact/Links
+### Maze Project - 
+
+## Contact/Links
 
 The best way to contact me is through email, but I can also be reached at the following places and I will do my best to respond in a timely manner. 
 
