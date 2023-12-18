@@ -22,7 +22,13 @@ This project uses Stacks and Queues to create and solve a basic maze given a set
 
 This project was completed in the Spring 2020 semester for my Intro to Data Structures and Algorithms course and was completed on my own. This project was done all in Java and can be run in the [MyMaze.java](https://github.com/nahum-gebremedhin/nahum-gebremedhin/blob/main/MazeProject/src/MyMaze.java) file where all of my own work was done. 
 
-When you run the main method on line 204 of MyMaze.java you should get an output of 2 mazes of different sizes with each of them having a various number of asterisks. The path of asterisks represents the path the program took to solve the maze by going from the enterance on the top left to the exit on the bottom right of the maze. 
+When you run the main method on line 204 of MyMaze.java you should get an output of 2 mazes of different sizes with each of them having a various number of asterisks. The image below is what one randomly generated output may look like.
+
+
+![image](https://github.com/nahum-gebremedhin/nahum-gebremedhin/assets/139835697/4415a451-975e-49b7-8f96-2889987b7dec)
+
+
+The path of asterisks represents the path the program took to solve the maze by going from the enterance on the top left to the exit on the bottom right of the maze. 
 
 ## Contact/Links
 
